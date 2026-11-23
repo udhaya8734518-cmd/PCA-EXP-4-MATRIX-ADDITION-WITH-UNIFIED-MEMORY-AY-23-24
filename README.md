@@ -140,4 +140,4 @@ SHOW YOUR OUTPUT HERE
 <img width="1041" height="253" alt="image" src="https://github.com/user-attachments/assets/099c8c0d-2d53-4a2d-81db-01f530130bae" />
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more 0.013041 time.
